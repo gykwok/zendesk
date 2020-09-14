@@ -1,0 +1,6 @@
+com\zendesk\menu\SearchSubMenuTest.class
+com\zendesk\search\SearchEngineTest.class
+com\zendesk\search\SearchableKeyCacheTest.class
+com\zendesk\menu\ListFieldsSubMenuTest.class
+com\zendesk\menu\MainMenuTest.class
+com\zendesk\loader\JsonFileLoaderTest.class
